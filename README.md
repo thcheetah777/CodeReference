@@ -1,5 +1,5 @@
-# programming-reference
-A coding reference to look at
+# CodeReference
+A coding reference that covers *HTML*, *Java* and *Python* more to come!
 
 ## Collaborators:
  - [thcheetah777](https://github.com/thcheetah777)
@@ -13,7 +13,7 @@ The website link is [Here](https://github.com/)
 If you have any *feedback*, *bug* or *idea* to give, please post it in the *[Issues](https://github.com/thcheetah777/programming-reference/issues)* section. You should first check if anyone has posted the same issue before you post one.
 
 ## Contributing
-If you want to help by contributing, you can email me at *thcheetah777@gmail.com*
+If you want to contribute, you can email me at *thcheetah777@gmail.com*
 
 ### Assets
 If you are contributing, you can put assets in the [Assets](https://github.com/thcheetah777/programming-reference/assets) folder I created in the repository

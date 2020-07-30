@@ -16,4 +16,4 @@ If you have any *feedback*, *bug* or *idea* to give, please post it in the *[Iss
 If you want to contribute, you can email *thcheetah777@gmail.com*
 
 ### Assets
-If you are contributing, you can put assets in the [Assets](https://github.com/thcheetah777/programming-reference/assets) folder I created in the repository
+If you are contributing, you can put assets in the [Assets](https://github.com/thcheetah777/programming-reference/tree/master/assets) folder I created in the repository

@@ -1,5 +1,5 @@
 # CodeReference
-A coding reference that covers *HTML*, *Java* and *Python* more to come!
+A coding reference that covers *HTML*, *Java* and *Python*. more to come!
 
 ## Collaborators:
  - [thcheetah777](https://github.com/thcheetah777)

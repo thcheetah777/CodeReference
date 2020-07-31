@@ -3,9 +3,16 @@
   height: 60px;
   background-color: #8a8a8a;
 }
-.navigation-links {
+.navigation-links a {
   text-decoration: none;
   font-size: 50px;
   font-family: monospace;
   color: grey;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+}
+img {
+  margin: -15px;
 }

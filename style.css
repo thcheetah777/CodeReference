@@ -4,6 +4,8 @@
   background-color: #8a8a8a;
 }
 .navigation-links {
-  font-style: none;
-  font-size: 80px;
+  text-decoration: none;
+  font-size: 50px;
+  font-family: monospace;
+  color: grey;
 }

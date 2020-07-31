@@ -1,5 +1,5 @@
 # CodeReference
-![Logo](assets\logo.png)
+![Logo](https://github.com/thcheetah777/programming-reference/blob/master/assets/Logo.png)
 A coding reference that covers *HTML*, *Java* and *Python*. more to come!
 
 ## Collaborators:

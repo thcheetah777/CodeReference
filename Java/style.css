@@ -1,4 +1,5 @@
 .navigation-bar {
+<<<<<<< HEAD
     width: 100%;
     height: 60px;
     background-color: #8a8a8a;
@@ -18,3 +19,24 @@
     margin-left: -20px;
     width: 115px;
   }
+=======
+  width: 100%;
+  height: 60px;
+  background-color: #8a8a8a;
+}
+.navigation-links a {
+  text-decoration: none;
+  font-size: 50px;
+  font-family: monospace;
+  color: grey;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.logo {
+  margin: -15px;
+  margin-left: -20px;
+  width: 115px;
+}
+>>>>>>> 91e875ec92b1d8c98427a0b33812b9af7335fff9

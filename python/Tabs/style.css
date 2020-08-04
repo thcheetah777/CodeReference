@@ -1,13 +1,15 @@
 .tabs {
   background-color: rgb(241, 241, 241);
   padding: 20px;
-
+  font-family: monospace;
 }
 .tabs a {
   color: rgb(0, 0, 0);
   text-decoration: none;
-  margin-bottom: -12px;
+  margin-bottom: -15px;
+  padding: 3px;
   display: block;
+  font-size: 18px;
 }
 .tabs a:hover {
   background-color: rgb(191, 191, 191);

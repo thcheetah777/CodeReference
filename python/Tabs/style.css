@@ -1,4 +1,14 @@
 .tabs {
   background-color: rgb(241, 241, 241);
   padding: 20px;
+
+}
+.tabs a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  margin-bottom: -12px;
+  display: block;
+}
+.tabs a:hover {
+  background-color: rgb(191, 191, 191);
 }

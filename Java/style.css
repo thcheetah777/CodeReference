@@ -1,24 +1,31 @@
-<<<<<<< HEAD
 .navigation-bar {
-<<<<<<< HEAD
-    width: 100%;
-    height: 60px;
-    background-color: #8a8a8a;
-  }
-  .navigation-links a {
-    text-decoration: none;
-    font-size: 50px;
-    font-family: monospace;
-    color: grey;
-  }
-  body {
-    padding: 0px;
-    margin: 0px;
-  }
-  .logo {
-    margin: -15px;
-    margin-left: -20px;
-    width: 115px;
-  }
-=======
->>>>>>> 4df4e5662875016a310412c2b66af6845727c57a
+  width: 100%;
+  height: 55px;
+  background-color: rgb(138, 138, 138);
+}
+.navigation-links a {
+  text-decoration: none;
+  font-size: 40px;
+  font-family: monospace;
+  color: rgb(255, 255, 255);
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 100px;
+  padding-top: 6px;
+  padding-bottom: 2px;
+}
+.navigation-links a:hover {
+  background-color: rgb(61, 61, 61);
+}
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.logo {
+  margin: -30px;
+  margin-left: -30px;
+  width: 270px;
+}
+.current-site {
+  background-color: rgb(79, 184, 75);
+}

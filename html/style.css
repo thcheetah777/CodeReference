@@ -30,3 +30,6 @@ body {
 .current-site {
   background-color: rgb(79, 184, 75);
 }
+h2, h1 {
+  margin: 20px;
+}

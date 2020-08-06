@@ -35,3 +35,6 @@ a {
   color: green;
   font-size: 20px;
 }
+.tabs, h1 {
+  padding: 20px;
+}

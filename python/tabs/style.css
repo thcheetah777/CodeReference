@@ -1,4 +1,6 @@
 .tabs {
+  width: 180px;
+  height: 485px;
   background-color: rgb(241, 241, 241);
   padding: 20px;
   font-family: monospace;
@@ -13,4 +15,18 @@
 }
 .tabs a:hover {
   background-color: rgb(191, 191, 191);
+}
+.navigation-buttons a {
+  padding: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family: monospace;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  background-color: rgb(79, 184, 75);
+}
+.navigation-buttons a:hover {
+  padding: 23px 28px;
+  background-color: rgb(73, 168, 69);
 }

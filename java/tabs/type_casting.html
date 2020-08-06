@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CodeReference</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <section>
+      <a href="..\index.html">
+        <img src="..\..\assets\logo.png" alt="CodeReference" class="logo">
+      </a>
+      <br>
+      <br>
+      <div class="navigation-bar">
+        <div class="navigation-links">
+          <a href="..\..\index.html">🏠</a>
+          <a href="..\..\java\index.html" class="current-site">Java</a>
+          <a href="..\..\html\index.html">HTML</a>
+          <a href="..\..\python\index.html">Python</a>
+        </div>
+      </div>
+    <h1 style = "font-size: 60 px;"> Type Casting </h1>
+    <p> There are two types of type casting. The first is widening casting which converts smaller types to a larger type size.
+      <ol> 
+        byte -> short -> char -> int -> long -> float -> double
+        Ex: 
+        int myInt = 9;
+        double myDouble = myInt;
+        System.out.println(myInt); // prints 9
+        System.out.println(myDouble); // prints 9.0
+      </ol>
+    </p>
+    <p> The secong type is narrowing casting converting a larger type to a smaller size type.
+      <ol>
+        double -> float -> long -> int -> char -> short -> byte ->
+        Ex:
+        double MyDouble = 9.78;
+        int myInt = (int) myDouble 
+        System.out.println(myInt); // prints 9
+        System.out.println(myDouble); // prints 9.78
+      </ol>
+    </p>
+  </body>
+</html>

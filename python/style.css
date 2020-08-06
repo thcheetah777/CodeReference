@@ -1,4 +1,6 @@
 .tabs {
+  width: 180px;
+  height: 485px;
   background-color: rgb(241, 241, 241);
   padding: 20px;
   font-family: monospace;

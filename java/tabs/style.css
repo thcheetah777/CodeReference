@@ -30,3 +30,12 @@ body {
 .current-site {
   background-color: rgb(79, 184, 75);
 }
+p, h2, h1, li {
+  margin: 20px;
+}
+p {
+  font-size: 20px;
+}
+li {
+  font-size: 18px;
+}

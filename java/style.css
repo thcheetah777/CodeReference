@@ -20,6 +20,7 @@
 body {
   padding: 0px;
   margin: 0px;
+  font-family: monospace;
 }
 .logo {
   margin: -30px;
@@ -28,4 +29,12 @@ body {
 }
 .current-site {
   background-color: rgb(79, 184, 75);
+}
+a {
+  text-decoration: none;
+  color: green;
+  font-size: 20px;
+}
+.tabs, h1 {
+  padding: 20px;
 }

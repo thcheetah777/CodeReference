@@ -21,8 +21,36 @@
         </div>
       </div>
 <h1 style = "font-size: 60 px;"> Inheritance! </h1>
-<p>
+<p> Subclass and Superclass:
+  <ol>
+    Subclass: (child) - the class that inherits from another class
+    Superclass: (parent) - the class being inherited from
+  </ol>
+</p>
+<p> Example:
+<ol>
+  class Vehicle {
+    protected String brand = "Ford";        // Vehicle attribute
+    public void honk() {                    // Vehicle method
+      System.out.println("Tuut, tuut!");
+    }
+  }
   
+  class Car extends Vehicle {
+    private String modelName = "Mustang";    // Car attribute
+    public static void main(String[] args) {
+  
+      // Create a myCar object
+      Car myCar = new Car();
+  
+      // Call the honk() method (from the Vehicle class) on the myCar object
+      myCar.honk();
+  
+      // Display the value of the brand attribute (from the Vehicle class) and the value of the modelName from the Car class
+      System.out.println(myCar.brand + " " + myCar.modelName);
+    }
+  }
+</ol>
 </p>
   </body>
 </html>

@@ -8,7 +8,7 @@ A coding reference that covers *HTML*, *Java* and *Python*. more to come!
  - [JaMeh-GoCode](https://github.com/JaMeh-GoCode)
 
 ## Link
-The website link is [Here](https://thcheetah777.github.io/programming-reference/index.html)
+The website link is [Here](https://thcheetah777.github.io/CodeReference/)
 
 ## Reporting issues, suggestions, feedback, bugs
 If you have any *feedback*, *bug* or *idea* to give, please post it in the *[Issues](https://github.com/thcheetah777/programming-reference/issues)* section. You should first check if anyone has posted the same issue before you post one.
